@@ -1,4 +1,2 @@
-Learned HTML, CSS and a very tiny bit of JS at @Micromata
-Currently not learning anything code-wise (except IT-subject in school)
-Tuba-Player
+Just a tuba player who likes technology
 Whoever reads this is awsome <3
